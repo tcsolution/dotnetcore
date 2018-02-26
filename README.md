@@ -1,0 +1,2 @@
+# dotnetcore
+app for demo
